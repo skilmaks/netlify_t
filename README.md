@@ -10,7 +10,7 @@ go to your codes directory
 </li>
 
 <li>
-`git clone https://github.com/dwihdyn/lifeskill-fe.git`
+`git clone https://github.com/skilmaks/netlify_t.git`
 </li>
 
 <li>
