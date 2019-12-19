@@ -1,0 +1,37 @@
+.Homepage {
+    width: 110vw;
+    height: 110vh;
+
+  }
+
+.Header-wrapper {
+    margin: 60px 0 30px 0;
+    background-color: whitesmoke;
+    border-radius: 10px;
+
+}
+
+.Homepage-header {
+    margin: 15px;
+
+}
+
+.Clubs-wrapper {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 10px;
+    margin: 0 0 20px 0;
+}
+
+.Clubs-header {
+    padding: 20px;
+}
+
+.Activities-wrapper {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 10px;
+    margin: 0 0 20px 0;
+}
+
+.Activities-header {
+    padding: 20px;
+}

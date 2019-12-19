@@ -1,0 +1,17 @@
+/* .Progress {
+  display: flex;
+  flex-wrap: wrap;
+} */
+
+.Progress-wrapper {
+  /* background-color: white;
+  display: flex;
+  flex-direction: row; */
+  /* box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); */
+  border: 1px solid whitesmoke;
+  background-color: whitesmoke;
+  border-radius: 10px;
+  width: 75%;
+  margin: 10px 10px 10px 0;
+  padding: 10px;
+}

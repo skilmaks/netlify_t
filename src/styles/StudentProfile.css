@@ -1,0 +1,77 @@
+.Dashboard-container {
+  width: 110vw;
+  height: 110vh;
+  margin-top: 62.5px;
+}
+
+.Dashboard-row {
+  height: 110vh;
+}
+
+.Dashboard-sidebar {
+  background-color: #362ca9;
+  color: whitesmoke;
+  font-size: 1.2em;
+}
+
+.Dashboard-sidebar-img {
+  width: 85%;
+  margin: 55px 0 0 12px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.Dashboard-sidebar-info {
+  margin: 20px 0 0 16px;
+}
+
+.Sidebar-link {
+  color: #fa8d19;
+}
+
+.Dashboard-charts {
+  background-color: whitesmoke;
+}
+
+.Dashboard-charts-header {
+  padding-top: 15px;
+  border-bottom: 1px solid #fa8d19;
+  text-align: center;
+  display: flex;
+  justify-content: space-between;
+}
+
+.Dashboard-points {
+  margin: 20px 20px 0 20px;
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  border-radius: 10px;
+}
+
+.Dashboard-points-button {
+  background-color: #fa8d19;
+  margin: 0 10px;
+}
+
+.Wrapper-header {
+  padding: 20px 0 0 10px;
+  /* display: flex; */
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.Dashboard-progress {
+  margin: 20px;
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  border-radius: 10px;
+  padding-bottom: 20px;
+}
+
+.Dashboard-progress-header {
+  padding: 20px 0 0 10px;
+}
+
+.Progress {
+  display: flex;
+  flex-wrap: wrap;
+}

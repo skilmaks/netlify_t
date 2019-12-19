@@ -1,0 +1,27 @@
+.Landing {
+  background-color: #362ca9;
+}
+
+.Landing-header {
+  min-height: 110vh;
+  display: inline-block;
+  position: relative
+}
+
+.Landing-intro { 
+  padding: 100px;
+  width: 50vw;
+  font-size: 60px;
+  color: whitesmoke;
+  align-items: center;
+}
+
+.Landing-special {
+  color: #FA8D19; 
+}
+
+.carousel-inner {
+  width: 70%;
+  height: 80%;
+  margin: auto;
+}
