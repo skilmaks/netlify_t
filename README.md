@@ -42,7 +42,7 @@ MAKE SURE you are in the right branch! Type
 if it show "whateverFeatureYouAreBuilding" in green color, you on the right track
 </li>
 </ol>
-if you stuck, let <strong>dwi</strong> know on slack
+if you stuck, let <strong>Me</strong> know on slack
 
 Remember to build one feature at a time! and good luck :)
 
