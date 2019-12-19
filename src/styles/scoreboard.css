@@ -1,0 +1,54 @@
+.scoreboard {
+  background: rgb(14, 96, 110);
+  margin: 70px auto;
+  box-shadow: 0 4px 0px #333;
+  border-radius: 15px;
+  display: flex;
+  flex-direction: column;
+  max-width: 1080px;
+  padding-bottom: 0.85em;
+}
+
+.title {
+  display: flex;
+  justify-content: center;
+  font-size: 30px;
+  color: white;
+}
+
+.header {
+  background-color: rgb(16, 140, 161);
+  padding: 5px 10px;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  border-radius: 15px 15px 0 0;
+  border-bottom: solid 2px #444;
+}
+
+.top-part {
+  display: flex;
+  color: white;
+}
+x` .students {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.student {
+  display: flex;
+  font-size: 1.2em;
+  border-bottom: solid 2px #444;
+  letter-spacing: 2px;
+  width: 100%;
+}
+
+.student-name {
+  margin-right: 10px;
+  color: white;
+}
+
+.student-score {
+  display: flex;
+  color: white;
+}
